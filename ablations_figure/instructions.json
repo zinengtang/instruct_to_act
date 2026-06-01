@@ -1,0 +1,502 @@
+[
+  {
+    "length": 1,
+    "type": "navigation",
+    "instruction": "go"
+  },
+  {
+    "length": 1,
+    "type": "collection",
+    "instruction": "mine"
+  },
+  {
+    "length": 1,
+    "type": "crafting",
+    "instruction": "craft"
+  },
+  {
+    "length": 1,
+    "type": "survival",
+    "instruction": "flee"
+  },
+  {
+    "length": 2,
+    "type": "navigation",
+    "instruction": "go north"
+  },
+  {
+    "length": 2,
+    "type": "collection",
+    "instruction": "mine wood"
+  },
+  {
+    "length": 2,
+    "type": "crafting",
+    "instruction": "craft planks"
+  },
+  {
+    "length": 2,
+    "type": "survival",
+    "instruction": "flee danger"
+  },
+  {
+    "length": 3,
+    "type": "navigation",
+    "instruction": "move toward cave"
+  },
+  {
+    "length": 3,
+    "type": "collection",
+    "instruction": "chop down trees"
+  },
+  {
+    "length": 3,
+    "type": "crafting",
+    "instruction": "craft stone pickaxe"
+  },
+  {
+    "length": 3,
+    "type": "survival",
+    "instruction": "avoid the creeper"
+  },
+  {
+    "length": 4,
+    "type": "navigation",
+    "instruction": "walk toward the cave"
+  },
+  {
+    "length": 4,
+    "type": "collection",
+    "instruction": "collect wood from trees"
+  },
+  {
+    "length": 4,
+    "type": "crafting",
+    "instruction": "craft a crafting table"
+  },
+  {
+    "length": 4,
+    "type": "survival",
+    "instruction": "hide from the creeper"
+  },
+  {
+    "length": 5,
+    "type": "navigation",
+    "instruction": "walk toward the nearby cave"
+  },
+  {
+    "length": 5,
+    "type": "collection",
+    "instruction": "chop trees to gather wood"
+  },
+  {
+    "length": 5,
+    "type": "crafting",
+    "instruction": "craft a wooden pickaxe now"
+  },
+  {
+    "length": 5,
+    "type": "survival",
+    "instruction": "run away from the creeper"
+  },
+  {
+    "length": 6,
+    "type": "navigation",
+    "instruction": "move toward the cave entrance ahead"
+  },
+  {
+    "length": 6,
+    "type": "collection",
+    "instruction": "mine iron ore in the cave"
+  },
+  {
+    "length": 6,
+    "type": "crafting",
+    "instruction": "craft a stone pickaxe using cobblestone"
+  },
+  {
+    "length": 6,
+    "type": "survival",
+    "instruction": "back away from the hostile mob"
+  },
+  {
+    "length": 7,
+    "type": "navigation",
+    "instruction": "descend into the cave to find ores"
+  },
+  {
+    "length": 7,
+    "type": "collection",
+    "instruction": "mine iron ore with the stone pickaxe"
+  },
+  {
+    "length": 7,
+    "type": "crafting",
+    "instruction": "craft a furnace using eight cobblestone blocks"
+  },
+  {
+    "length": 7,
+    "type": "survival",
+    "instruction": "retreat upward to escape the lava flow"
+  },
+  {
+    "length": 8,
+    "type": "navigation",
+    "instruction": "navigate toward the tall trees on the hill"
+  },
+  {
+    "length": 8,
+    "type": "collection",
+    "instruction": "collect wood from the trees near the hill"
+  },
+  {
+    "length": 8,
+    "type": "crafting",
+    "instruction": "smelt iron ore in the furnace using coal"
+  },
+  {
+    "length": 8,
+    "type": "survival",
+    "instruction": "place a torch to light the dark tunnel"
+  },
+  {
+    "length": 9,
+    "type": "navigation",
+    "instruction": "follow the river downstream until you reach a cave"
+  },
+  {
+    "length": 9,
+    "type": "collection",
+    "instruction": "mine the coal seam visible on the left cave"
+  },
+  {
+    "length": 9,
+    "type": "crafting",
+    "instruction": "use the crafting table to make wooden planks from"
+  },
+  {
+    "length": 9,
+    "type": "survival",
+    "instruction": "build a dirt wall to block the skeleton from"
+  },
+  {
+    "length": 10,
+    "type": "navigation",
+    "instruction": "explore the cavern to the south until you spot iron"
+  },
+  {
+    "length": 10,
+    "type": "collection",
+    "instruction": "gather at least eight pieces of cobblestone from the cave"
+  },
+  {
+    "length": 10,
+    "type": "crafting",
+    "instruction": "craft sticks from planks and then make a wooden pickaxe"
+  },
+  {
+    "length": 10,
+    "type": "survival",
+    "instruction": "jump over the gap and run away from the incoming"
+  },
+  {
+    "length": 11,
+    "type": "navigation",
+    "instruction": "head toward the mountain to the east and find the cave"
+  },
+  {
+    "length": 11,
+    "type": "collection",
+    "instruction": "dig down at the base of the hill to reach the"
+  },
+  {
+    "length": 11,
+    "type": "crafting",
+    "instruction": "place the crafting table and make an iron pickaxe from iron"
+  },
+  {
+    "length": 11,
+    "type": "survival",
+    "instruction": "light the area with torches so hostile mobs cannot spawn near"
+  },
+  {
+    "length": 12,
+    "type": "navigation",
+    "instruction": "travel east across the biome and enter the cave you see on"
+  },
+  {
+    "length": 12,
+    "type": "collection",
+    "instruction": "mine the iron ore deposit on the left wall and collect all"
+  },
+  {
+    "length": 12,
+    "type": "crafting",
+    "instruction": "open the crafting table and use six iron ingots and two sticks"
+  },
+  {
+    "length": 12,
+    "type": "survival",
+    "instruction": "equip your sword and attack the creeper before it explodes and damages"
+  },
+  {
+    "length": 14,
+    "type": "navigation",
+    "instruction": "navigate through the forest to the north find the river and follow it east"
+  },
+  {
+    "length": 14,
+    "type": "collection",
+    "instruction": "dig straight down at this location until you reach the stone layer and mine"
+  },
+  {
+    "length": 14,
+    "type": "crafting",
+    "instruction": "first gather eight cobblestone blocks then return here and use the crafting table to"
+  },
+  {
+    "length": 14,
+    "type": "survival",
+    "instruction": "move back from the lava pool place a stone block to seal the gap"
+  },
+  {
+    "length": 16,
+    "type": "navigation",
+    "instruction": "head north past the two oak trees cross the small river and climb the hill until"
+  },
+  {
+    "length": 16,
+    "type": "collection",
+    "instruction": "mine along the exposed stone wall on the east side of the cave collecting every piece"
+  },
+  {
+    "length": 16,
+    "type": "crafting",
+    "instruction": "place the furnace adjacent to the crafting table load it with coal and iron ore then"
+  },
+  {
+    "length": 16,
+    "type": "survival",
+    "instruction": "quickly place three dirt blocks behind you to block the zombie path then turn around and"
+  },
+  {
+    "length": 18,
+    "type": "navigation",
+    "instruction": "walk north along the riverbank until the biome changes to a dark forest then turn east and locate"
+  },
+  {
+    "length": 18,
+    "type": "collection",
+    "instruction": "use the iron pickaxe to mine the diamond ore nodes visible at the bottom of the ravine making"
+  },
+  {
+    "length": 18,
+    "type": "crafting",
+    "instruction": "gather four wooden planks open the crafting table arrange them in a two by two grid and place"
+  },
+  {
+    "length": 18,
+    "type": "survival",
+    "instruction": "place a temporary dirt shelter around yourself seal the entrance with a single block and wait inside until"
+  },
+  {
+    "length": 20,
+    "type": "navigation",
+    "instruction": "travel south through the plains biome until you reach the desert then turn west and walk until you find the"
+  },
+  {
+    "length": 20,
+    "type": "collection",
+    "instruction": "descend to level twelve using your iron pickaxe dig a staircase pattern downward then mine any diamond ore you encounter"
+  },
+  {
+    "length": 20,
+    "type": "crafting",
+    "instruction": "collect three blocks of iron ore smelt them into ingots using the furnace and coal then open the crafting table"
+  },
+  {
+    "length": 20,
+    "type": "survival",
+    "instruction": "immediately dig a two by two room in the nearest hillside place your bed inside light the space with torches"
+  },
+  {
+    "length": 25,
+    "type": "navigation",
+    "instruction": "begin by facing north and walking forward until you reach a large oak tree then turn right and follow the cliff edge east until you"
+  },
+  {
+    "length": 25,
+    "type": "collection",
+    "instruction": "dig a two block wide staircase going downward at a forty five degree angle continuing until you reach bedrock level then mine horizontally east collecting"
+  },
+  {
+    "length": 25,
+    "type": "crafting",
+    "instruction": "open the crafting table and arrange three iron ingots in the top row two sticks in the middle column and nothing elsewhere to produce an"
+  },
+  {
+    "length": 25,
+    "type": "survival",
+    "instruction": "when you hear the hissing sound immediately sprint away from the creeper in the opposite direction and keep running until the sound stops then look"
+  },
+  {
+    "length": 30,
+    "type": "navigation",
+    "instruction": "start at your current position face the direction of the rising sun which is east then walk forward past the birch forest across the flower plains and up the gradual"
+  },
+  {
+    "length": 30,
+    "type": "collection",
+    "instruction": "equip the iron pickaxe from your hotbar descend the staircase mine to level eleven by counting blocks as you go then strip mine east for thirty blocks collecting every piece"
+  },
+  {
+    "length": 30,
+    "type": "crafting",
+    "instruction": "open your inventory check that you have at least eight cobblestone blocks four wooden planks and two sticks then approach the crafting table right click to open it and craft"
+  },
+  {
+    "length": 30,
+    "type": "survival",
+    "instruction": "as soon as you see the spider sprint toward the nearest tree climb it by jumping and placing blocks beneath you until you are four blocks above ground then wait"
+  },
+  {
+    "length": 35,
+    "type": "navigation",
+    "instruction": "leave your current base heading northwest through the taiga biome keeping the mountain range visible on your left side cross the frozen river by placing dirt stepping stones continue past the ice spikes formation and"
+  },
+  {
+    "length": 35,
+    "type": "collection",
+    "instruction": "mine a three block wide tunnel heading due east from your current position at level twelve depth placing torches every eight blocks on the right wall for orientation mark any side tunnels with cobblestone signs"
+  },
+  {
+    "length": 35,
+    "type": "crafting",
+    "instruction": "gather the following materials before approaching the crafting table eight cobblestone for a furnace four iron ingots and two sticks for an iron pickaxe and six iron ingots for iron leggings then craft each item"
+  },
+  {
+    "length": 35,
+    "type": "survival",
+    "instruction": "when your health drops below five hearts immediately stop moving crouch behind the nearest boulder or tree trunk eat a golden apple or cooked pork if available wait for regeneration to restore at least eight"
+  },
+  {
+    "length": 40,
+    "type": "navigation",
+    "instruction": "orient yourself so the sun is setting directly in front of you which means you are facing west then walk forward for approximately one hundred blocks keeping the river on your right side when the river forks take the left"
+  },
+  {
+    "length": 40,
+    "type": "collection",
+    "instruction": "equip the iron pickaxe and descend through the existing mineshaft using the rope ladder you placed earlier at the bottom of shaft A turn left into the eastern gallery where you previously spotted the large diamond vein mine out all"
+  },
+  {
+    "length": 40,
+    "type": "crafting",
+    "instruction": "before you begin crafting sort your entire inventory placing raw ores in chest A coal in chest B and excess stone in chest C load the furnace with sixteen coal units and all remaining raw iron and gold ore wait"
+  },
+  {
+    "length": 40,
+    "type": "survival",
+    "instruction": "when you enter the nether fortress proceed cautiously with your shield held in the off hand facing the direction of travel place a trail of cobblestone markers every ten blocks so you can find your way back when a blaze"
+  },
+  {
+    "length": 50,
+    "type": "navigation",
+    "instruction": "to reach the stronghold first craft three eyes of ender by combining ender pearls with blaze powder in the crafting table then go outside and throw one eye upward it will float in a direction follow that direction walking for fifty blocks throw another eye repeat this process adjusting your"
+  },
+  {
+    "length": 50,
+    "type": "collection",
+    "instruction": "to efficiently farm iron ore in the deep slate layer first descend to level negative twenty using the existing staircase then branch mine by digging two parallel tunnels each forty blocks long separated by two blocks of stone walk the left tunnel first breaking every second block at eye level"
+  },
+  {
+    "length": 50,
+    "type": "crafting",
+    "instruction": "to prepare fully for entering the end dimension gather the following materials in this order twelve obsidian blocks by pouring water over lava then mining with a diamond pickaxe one flint and steel made from iron ingot and flint at least sixteen cooked golden apples crafted by surrounding an apple"
+  },
+  {
+    "length": 50,
+    "type": "survival",
+    "instruction": "upon entering the end and seeing the ender dragon circle the central fountain immediately run to the nearest obsidian pillar and take cover behind its base look upward to locate the end crystal on top of the pillar shoot it with arrows from cover when it explodes it will remove"
+  },
+  {
+    "length": 60,
+    "type": "navigation",
+    "instruction": "to locate the nearest ocean monument begin by crafting a respiration helmet by enchanting an iron helmet with respiration three using the enchanting table then stand on the highest point near your base and look for the distinctive dark blue green tint of deep ocean biome tiles on the horizon use a boat to cross shallow ocean sections and sprint"
+  },
+  {
+    "length": 60,
+    "type": "collection",
+    "instruction": "to obtain silk touch string without destroying spawner blocks first place a chest adjacent to your mob farm sorting system then set the hopper chain so string routes to chest B iron to chest C and experience orbs route nowhere since they cannot be piped check that the lighting in all four spawning platforms is at zero by using a"
+  },
+  {
+    "length": 60,
+    "type": "crafting",
+    "instruction": "to build a complete set of netherite armor first collect four netherite ingots each requiring four netherite scraps and four gold ingots netherite scraps are obtained by smelting ancient debris in a blast furnace ancient debris spawns at level fifteen in the nether mine using beds which can be detonated in the nether to expose ancient debris clusters safely once"
+  },
+  {
+    "length": 60,
+    "type": "survival",
+    "instruction": "when the warden emerges from the ground immediately stop all movement crouching reduces your noise signature to near zero switch off any active minecart conveyor systems nearby that generate vibration wait in place without sneaking for fifteen seconds while the warden scans for vibration sources if it begins moving toward you remain crouched and move one block sideways every five"
+  },
+  {
+    "length": 70,
+    "type": "navigation",
+    "instruction": "to find the woodland mansion start by crafting a woodland explorer map which requires trading an emerald and a compass with a cartographer villager once you have the map open it and orient yourself so your white dot overlaps the mansion icon walk in the direction indicated by the map continuing for potentially thousands of blocks do not attempt shortcuts through swamps at night as drowned zombies will slow you"
+  },
+  {
+    "length": 70,
+    "type": "collection",
+    "instruction": "to farm enough xp for a maximum enchanting session first build a standard mob tower farm using the following materials sixty four cobblestone for the spawning floor thirty two trapdoors to force mobs to fall sixteen hoppers routed to a double chest and four water source blocks placed in the corners of each twenty four block wide spawning platform build the kill chamber at the base of a twenty three"
+  },
+  {
+    "length": 70,
+    "type": "crafting",
+    "instruction": "to prepare a complete exploration kit for a multi day nether expedition gather the following items before opening the crafting table two stacks of cobblestone for building emergency shelters sixteen gold ingots to craft golden armor pieces for piglin neutrality two fire resistance potions brewed from magma cream and awkward potions in the brewing stand four ender chests crafted from obsidian and an eye of ender for portable storage two"
+  },
+  {
+    "length": 70,
+    "type": "survival",
+    "instruction": "when you fall into a lava lake in the nether immediately press the sprint swim button to move toward the nearest obsidian or netherrack ledge if a fire resistance potion is available drink it the moment you enter the lava pool to prevent further burning damage if no potion is available position your crosshair on the ledge edge and use the jump button combined with forward movement to boost yourself"
+  },
+  {
+    "length": 80,
+    "type": "navigation",
+    "instruction": "to complete the journey from overworld spawn to the end portal room in the stronghold follow these steps in sequence first gather enough resources to create three eyes of ender by killing at least three blazes in the nether for blaze rods converting the rods to blaze powder and combining them with ender pearls obtained from endermen in the end biome second return to the overworld and throw one eye of ender upward which will drift in the direction of"
+  },
+  {
+    "length": 80,
+    "type": "collection",
+    "instruction": "to gather all materials required for a fully enchanted diamond armor set before the enchanting session collect the following in order sixteen diamonds for the four armor pieces from strip mining at level twelve forty eight lapis lazuli blocks for enchanting from mining blue speckled stone eight sugarcane plants grown adjacent to water for paper to combine into books thirty two leather from cows for the same books and one hundred twenty experience levels from mob farming then at the"
+  },
+  {
+    "length": 80,
+    "type": "crafting",
+    "instruction": "to build a complete automated iron farm using villagers and zombies first construct a platform twenty four blocks above the ground with a three by three grid of doors to attract villagers place one zombie in a dark minecart at the platform edge so it is visible to the villagers but cannot reach them the villagers will panic and attempt to sleep in beds placed on the platform which causes iron golems to spawn around them build a one block"
+  },
+  {
+    "length": 80,
+    "type": "survival",
+    "instruction": "when you are trapped underground with no torches and your hunger bar is below three drumsticks execute the following survival protocol immediately stop all movement to prevent further hunger drain open your inventory and eat any raw food available since hunger from raw meat is better than starvation craft a wooden pickaxe if you have logs and no other tools mine upward at a forty five degree angle by digging one block forward and one block up alternating until you"
+  },
+  {
+    "length": 100,
+    "type": "navigation",
+    "instruction": "to plan and execute a complete expedition from your home base to the nearest jungle temple begin by scouting from an elevated position and identifying the jungle biome on the horizon using the distinctive tall dark green canopy prepare for the journey by stocking sixty four cooked food items for stamina and a full set of iron armor with a sword and bow for defense craft at least two stacks of arrows and bring a compass and empty maps to chart the route as you travel leave trail markers every thirty blocks by placing a single torch on the right"
+  },
+  {
+    "length": 100,
+    "type": "collection",
+    "instruction": "to conduct a maximally efficient mining session for diamonds and netherite follow this complete protocol start by smelting twenty four iron ingots into an iron pickaxe and two iron shovels for clearing gravel descend using the staircase method to level negative fifty eight which is the optimal layer for diamond spawning using the 1.18 generation rules once at depth dig a three block tall main corridor heading due east for one hundred blocks placing torches on the left wall every eight blocks then branch off perpendicular corridors every three blocks to the right these branches should each extend twenty blocks"
+  },
+  {
+    "length": 100,
+    "type": "crafting",
+    "instruction": "to prepare a complete end game loadout capable of defeating both the ender dragon and the wither boss follow this crafting sequence in order first smelt all raw metals in the blast furnace prioritizing netherite scraps into ingots then diamonds into blocks for compact storage second open the smithing table and upgrade your diamond sword chestplate helmet leggings and boots to netherite one piece at a time using the netherite upgrade template and one netherite ingot each third open the enchanting table and apply sharpness five to the netherite sword using your stored experience levels fourth enchant the chestplate with"
+  },
+  {
+    "length": 100,
+    "type": "survival",
+    "instruction": "when you discover you have accidentally entered a deep dark biome without preparing for the warden execute this complete withdrawal protocol as follows immediately stop all movement and switch to sneaking mode which reduces your noise signature to nearly zero scan the area visually for any sculk shriekers the dark blue blocks that summon the warden when activated and note their positions if you have accidentally triggered a shrieker you have at most three activations before a warden spawns begin moving by sneaking one block at a time toward the direction you entered pausing for two full seconds between each"
+  }
+]
